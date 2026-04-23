@@ -136,11 +136,6 @@ To enable:
 
 ---
 
-## License
-
-Add your preferred license (e.g., MIT, Apache-2.0) in a `LICENSE` file.
-
----
 
 ## Acknowledgments
 
